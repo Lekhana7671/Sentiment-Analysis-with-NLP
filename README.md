@@ -114,6 +114,6 @@ This project was completed as part of an internship task at **CODTECH**. It demo
 - TF-IDF and Logistic Regression are widely used for text classification  
 - Notebook is reproducible and can be extended to larger datasets  
 
-# Output
+## 📸 Output
 
 <img width="1913" height="867" alt="Image" src="https://github.com/user-attachments/assets/aca86080-9b66-4dd9-ba58-443e429340a1" />
